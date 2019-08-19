@@ -1,3 +1,3 @@
-# STM32Learning
+# Pulse Genenrator
 Pulse and Signal Generator for Testing products
 
